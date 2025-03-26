@@ -1,0 +1,8 @@
+Reflect app
+
+I would like to build an app that let users reflect about their day. The purpose of the app is to allow users to give feedback or improve processes and practise at work. By reflecting at the end of the day users can find out what went wrong and what can be improved and why. 
+The app should be written in Rust and it should be native. The data will be stored in the file system for the time being. 
+I provided a screenshot of the app in the context folder that you can look at. 
+The app should ask How was your day and the user can pick among different emojies, there shosuld a free text box where the user can write anything and there should an action section to list some items, for example. Talk to someone about this issue. 
+
+DO you have any questions before we continue?

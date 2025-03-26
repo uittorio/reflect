@@ -1,0 +1,15 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Language
+
+Always use rust
+
+# Backend
+
+Use a file system
+
+# 
