@@ -1,0 +1,5 @@
+
+- The app is not following the UI that I provided
+  - Whitespace on the grey header
+  - Not enough space at the top
+- Add a rule to cursor to always try to build before asking to run the application so it can fix the issue before hand.
